@@ -5,12 +5,12 @@ export default function Home() {
     return (
         <>
             <Header/>
-            <main className={"p-5  max-w-screen-2xl mx-auto"}>
-                <div className={"p-10 rounded w-full bg-blue-200"}>
-                    <h1 className={"text-3xl"}>Hello World</h1>
+            <main className={"px-5 max-w-screen-2xl mx-auto overflow-hidden"}>
+                <div className={"bg-indigo-950 rounded-xl overflow-hidden"}>
+                    <img className={"object-cover object-center h-560 w-full"} src={"https://picsum.photos/1500/600"}/>
                 </div>
             </main>
-            <Footer/>
+
         </>
 
     )
