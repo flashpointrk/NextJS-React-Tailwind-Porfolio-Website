@@ -28,5 +28,31 @@ If you'd like to contribute to this project, you can make changes by creating a 
 This project is licensed under the MIT License. 
 
 
+# Portfolyo Web Sitesi - React, Next.js, Tailwind CSS
 
+Bu proje, kişisel portfolyonuzu çarpıcı bir şekilde sergilemek için geliştirilmiş bir web sitesi şablonudur. React, Next.js ve Tailwind CSS kullanılarak oluşturulan bu proje, modern tasarım ve kullanıcı deneyimi ile öne çıkmanıza yardımcı olur.
 
+## Özellikler
+
+- **Hızlı ve Duyarlı:** Next.js'in Sunucu Taraflı Render (SSR) yetenekleri sayesinde, web siteniz hızlı bir şekilde yüklenir ve en iyi performansı sunar.
+- **Modern Tasarım:** Şık ve minimalist tasarımıyla dikkat çeken bu şablon, içeriğinizi etkili bir şekilde vurgular.
+- **Kolay Özelleştirme:** Temiz ve düzenli kod yapısı, içeriği kolayca özelleştirmenize olanak tanır. Stil ve düzen ayarlarını hızla Tailwind CSS kullanarak ayarlayabilirsiniz.
+- **Portfolyo Bölümü:** Projelerinizi ve çalışmalarınızı sergilemek için özel olarak tasarlanmış portfolyo bölümü.
+- **İletişim Formu:** İletişim formu sayesinde ziyaretçileriniz kolayca sizinle iletişime geçebilir.
+
+## Başlangıç
+
+1. Bu depoyu kendi GitHub hesabınıza "Fork"layın.
+2. Terminali açın ve projeyi bilgisayarınıza klonlayın: `git clone https://github.com/flashpointrk/React-Porfolio-Website`
+3. Proje dizinine gidin: `cd`
+4. Gerekli bağımlılıkları yüklemek için: `npm install` veya `yarn install`
+5. Geliştirme sunucusunu başlatmak için: `npm run dev` veya `yarn dev`
+6. Projeyi tarayıcıda görüntülemek için: `http://localhost:3000`
+
+## Katkı Sağlama
+
+Eğer bu projeye katkıda bulunmak isterseniz, "Fork"ladıktan sonra yeni bir dal oluşturup değişikliklerinizi yapabilirsiniz. Daha sonra "Pull Request" açarak değişikliklerinizi gönderebilirsiniz. Her türlü katkı ve öneriye açığız!
+
+## Lisans
+
+Bu proje MIT Lisansı altında lisanslanmıştır.
