@@ -1,7 +1,7 @@
+import { HeaderCk, FooterCk } from '@/components'
 import './globals.css'
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
-import Header from "@/dynamics/header";
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -18,8 +18,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-      <Header/>
+      <HeaderCk/>
       {children}
+      <FooterCk/>
       </body>
     </html>
   )
