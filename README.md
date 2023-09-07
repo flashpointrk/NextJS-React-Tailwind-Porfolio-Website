@@ -13,7 +13,7 @@ This project is a website template developed to showcase your personal portfolio
 ## Getting Started
 
 1. Fork this repository to your own GitHub account.
-2. Open the terminal and clone the project to your computer: `git clone https://github.com/flashpointrk/React-Porfolio-Website`
+2. Open the terminal and clone the project to your computer: `git clone [https://github.com/flashpointrk/React-Porfolio-Website](https://github.com/flashpointrk/NextJS-React-Tailwind-Porfolio-Website)`
 3. Navigate to the project directory: `cd React-Porfolio-Website`
 4. Install the necessary dependencies: `npm install` or `yarn install`
 5. Start the development server: `npm run dev` or `yarn dev`
@@ -43,7 +43,7 @@ Bu proje, kişisel portfolyonuzu çarpıcı bir şekilde sergilemek için geliş
 ## Başlangıç
 
 1. Bu depoyu kendi GitHub hesabınıza "Fork"layın.
-2. Terminali açın ve projeyi bilgisayarınıza klonlayın: `git clone https://github.com/flashpointrk/React-Porfolio-Website`
+2. Terminali açın ve projeyi bilgisayarınıza klonlayın: `git clone [https://github.com/flashpointrk/React-Porfolio-Website](https://github.com/flashpointrk/NextJS-React-Tailwind-Porfolio-Website)`
 3. Proje dizinine gidin: `cd`
 4. Gerekli bağımlılıkları yüklemek için: `npm install` veya `yarn install`
 5. Geliştirme sunucusunu başlatmak için: `npm run dev` veya `yarn dev`
